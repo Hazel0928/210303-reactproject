@@ -1,11 +1,10 @@
 import React, { Component } from 'react'
-import Login from './pages/login'
 
-export default class App extends Component {
+export default class RegisterForm extends Component {
     render() {
         return (
             <div>
-                <Login></Login>
+                register
             </div>
         )
     }
